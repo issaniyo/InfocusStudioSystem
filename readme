@@ -22,7 +22,7 @@ This is a web application developed using Flask and MySQL to provide photography
 ## Setup Instructions
 
 1. Clone the repository:
- git clone https://github.com/hermogene2001/InfocusStudioSystem
+ git clone https://github.com/issaniyo/InfocusStudioSystem
 2. Install dependencies:
 
 pip install -r requirements.txt
